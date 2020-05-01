@@ -672,7 +672,7 @@ font-family: "Montserrat", Georgia, serif;}
   position: absolute;
   display: block;
   width: 4px;
-  background: #f9bf3f;
+  background: #ffffff;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -708,7 +708,7 @@ font-family: "Montserrat", Georgia, serif;}
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
     background: #ec5453; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #ffffff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
     background: #a84cb8; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
@@ -721,7 +721,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #f9bf3f;
+  background: #ffffff;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -784,9 +784,9 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon2 i {
       color: #ec5453; }
   .services.color-3 {
-    border-bottom: 2px solid #f9bf3f; }
+    border-bottom: 2px solid #ffffff; }
     .services.color-3 .icon2 i {
-      color: #f9bf3f; }
+      color: #ffffff; }
   .services.color-4 {
     border-bottom: 2px solid #a84cb8; }
     .services.color-4 .icon2 i {
@@ -856,11 +856,11 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon:after {
       border-color: #ec5453 transparent transparent transparent; }
   .services.color-3 .icon {
-    background: #f9bf3f; }
+    background: #ffffff; }
     .services.color-3 .icon:before {
-      border-color: transparent transparent #f9bf3f transparent; }
+      border-color: transparent transparent #ffffff transparent; }
     .services.color-3 .icon:after {
-      border-color: #f9bf3f transparent transparent transparent; }
+      border-color: #ffffff transparent transparent transparent; }
   .services.color-4 .icon {
     background: #a84cb8; }
     .services.color-4 .icon:before {
@@ -939,11 +939,11 @@ padding-top: 2px;}
 
 
   .progress-bar.color-3 {
-    background: #f9bf3f; }
+    background: #ffffff; }
     .progress-bar.color-3:after {
-      background: #f9bf3f; }
+      background: #ffffff; }
     .progress-bar.color-3 span {
-      color: #f9bf3f; }
+      color: #ffffff; }
   .progress-bar.color-4 {
     background: #a84cb8; }
     .progress-bar.color-4:after {
@@ -969,11 +969,11 @@ padding-top: 2px;}
     .progress-bar.color-7 span {
       color: #ec5453; }
   .progress-bar.color-8 {
-    background: #f9bf3f; }
+    background: #ffffff; }
     .progress-bar.color-8:after {
-      background: #f9bf3f; }
+      background: #ffffff; }
     .progress-bar.color-8 span {
-      color: #f9bf3f; }
+      color: #ffffff; }
   .progress-bar.color-9 {
     background: #a84cb8; }
     .progress-bar.color-9:after {
