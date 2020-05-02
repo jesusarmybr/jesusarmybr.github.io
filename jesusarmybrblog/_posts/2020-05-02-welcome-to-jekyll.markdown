@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jesus Army BR e pandemia COVID19, vamos ajudar quem precisam!"
+keyword: jesus, deus, pandemia,covid19, betim, doações
 date:   2020-05-02 11:33:35 -0300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+O mundo inteiro está vivendo um momento terrível por causa da pandemia COVID19. Muitos estão entrando em desespero. Achando que tudo está acabado. Mas lembrem do que Deus nós disse:
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight text %}
+Alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração; Romanos 12:12
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+A `Jesus Army BR` foi criada dia 1 de Maio de 2020 para espalhar o evangelho de Cristo. Deus tocou em nossos corações. Ele quer usar todos NÓS em seu exército. Vamos ser guerreiros de Cristo. Só através de Cristo temos vida e só através dele seremos salvo. Não temos certeza quando Jesus vai voltar, mas vamos ajudar nosso misericordioso Deus com os seus planos. Ele nós ama tanto. Seja um guerreiro do exército que Deus está levantando! Deus precisa de você, meu amigo e irmão em Cristo Jesus. Jesus é amor. A verdade. A vida. Obrigado pai. Obrigado filho. Obrigado espírito santo.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+O mundo está devastado devido a pandemia. Muitas pessoas mesmo precisam de ajuda. Tanto no aspecto carnal quanto no espiritual. Pensando nisso, estaremos levando alimento, agasalho, a ela. E o mais importante, a palavra do nosso misericordioso Deus. Elas precisam conhecer de verdade o amor de Deus e o seu poder. Na palavra está escrito o seguinte:
+{% highlight text %}
+Para o homem é impossível, mas para Deus todas as coisas são possíveis; Mateus 19:26
+{% endhighlight %}
+
+Se você mora na região de Betim e MG, entrem no nosso site [JesusArmyBR.com][jesusarmybr] e procurem pelo formulário usado para preencheer os dados para nós ajudar com esse projeto. Vamos ajudar quem precisa! 
+
+
+[jesusarmybr]: http://www.jesusarmybr.com
