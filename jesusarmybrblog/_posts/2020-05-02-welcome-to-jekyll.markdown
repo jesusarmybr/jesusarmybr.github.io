@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jesus Army BR e pandemia COVID19, vamos ajudar quem precisa!"
-keywords: jesus, deus, pandemia,covid19, betim, doações
+keyword: jesus, deus, pandemia,covid19, betim, doações
 date:   2020-05-02 11:33:35 -0300
 categories: jekyll update
 ---
