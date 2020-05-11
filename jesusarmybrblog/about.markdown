@@ -11,7 +11,7 @@ O mundo está devastado devido a pandemia. Muitas pessoas mesmo precisam de ajud
 Para o homem é impossível, mas para Deus todas as coisas são possíveis; Mateus 19:26
 {% endhighlight %}
 
-Se você mora na região de Betim e MG, entrem no nosso site [JesusArmyBR.com][jesusarmybr] e procurem pelo formulário usado para preencheer os dados para nós ajudar com esse projeto. Vamos ajudar quem precisa! 
+Se você mora na região de Betim e MG, entre no nosso site [JesusArmyBR.com][jesusarmybr] e procure pelo formulário usado para preencheer os dados para nós ajudar com esse projeto. Vamos ajudar quem precisa! 
 
 
 [jesusarmybr]: http://www.jesusarmybr.com
