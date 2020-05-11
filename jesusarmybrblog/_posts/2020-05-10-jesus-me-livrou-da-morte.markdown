@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O mundo inteiro está no poder do maligno. Mas maior é aquele que está comigo."
+title:  "O mundo inteiro está sob o poder do maligno. Mas maior é aquele que está comigo."
 keywords: jesus, deus, vida, mundo, batalha, espiritual, fim dos tempos
 date:   2020-05-10 22:05:00 -0300
 categories: batalha espiritual
@@ -9,7 +9,7 @@ author: Raphael Santana Carvalho
 
 `Sabemos que somos de Deus e que o mundo todo está sob o poder do Maligno. 1 João 5:19`
 
-A palavra de Deus não mente. O **mundo inteiro**, eu disse inteiro, está sob o poder do maligno. Por isso o mundo é caótico, por isso vemos tanta maldade, destruição, egoísmo, etc. Mas isso não significa que devemos temer o mundo, pois temos o Criador ao nosso lado. Ele tem o seguinte para nós dizer:
+A palavra de Deus não mente. O **mundo inteiro**, eu disse inteiro, está sob o poder do maligno. Por isso o mundo é caótico, por isso vemos tanta maldade, destruição, egoísmo, etc. Mas isso não significa que devemos temer o mundo, pois temos o Criador ao nosso lado. Ele tem o seguinte para nos dizer:
 
 `
 Por isso não tema, pois estou com você;
@@ -24,7 +24,7 @@ A Bíblia deixa claro que a doutrina do mal está sendo implementada no mundo in
 
 `Não tratem com desprezo as profecias, mas ponham à prova todas as coisas e fiquem com o que é bom. 1 Tessalonicenses 5:20-21`
 
-O apostólo Paulo, em uma de suas espistólas, está pedindo para que não aceitemos tudo como verdade, mas que verifiquemos a veracidade de todas as coisas através da palavra de Deus.
+O apostólo Paulo, em uma de suas epístolas, está pedindo para que não aceitemos tudo como verdade, mas que verifiquemos a veracidade de todas as coisas através da palavra de Deus.
 
 `E conhecereis a verdade, e a verdade vos libertará. João 8:32`
 
@@ -34,7 +34,7 @@ Nesse mesmo livro, encontramos o seguinte:
 
 `Amados, não creiam em qualquer espírito, mas examinem os espíritos para ver se eles procedem de Deus, porque muitos falsos profetas têm saído pelo mundo. Vocês podem reconhecer o Espírito de Deus deste modo: todo espírito que confessa que Jesus Cristo veio em carne procede de Deus; 1 João 4:1-2`
 
-Mas adiante Deus nós diz que **maior é ele que está com nós do que aquele que está lá fora** implementando a doutrina demôniaca pelo mundo. 
+Mais adiante Deus nos diz que **maior é ele que está com nós do que aquele que está lá fora** implementando a doutrina demôniaca pelo mundo. 
 
 `Filhinhos, vocês são de Deus e os venceram, porque aquele que está em vocês é maior do que aquele que está no mundo. 1 João 4:4`
 
