@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/blog/assets/jesusarmylogo.png");
+    transform: scale(.5);
+	display: inline-block;
+	position: absolute;
+	top: 33%;
+    right: 30px;
+    height: 56px;
+    width: auto;
+}
